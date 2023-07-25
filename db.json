@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "EmployeeCode": 45,
+      "EmployeeName": "vikash",
+      "Designation": "dev",
+      "CurrentCTC": 23,
+      "DateOfJoin": "2005-12-02T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "EmployeeCode": 466,
+      "EmployeeName": "vikash",
+      "Designation": "dev",
+      "CurrentCTC": 23,
+      "DateOfJoin": "2005-12-02T18:30:00.000Z",
+      "id": 2
+    }
+  ]
+}
